@@ -1,13 +1,13 @@
 # discrod-webhook-warface
-install python3: **https://www.python.org/downloads/**
+Установите python3: **https://www.python.org/downloads/**
 
-Open the console (Hold Win + r and enter cmd)
-enter the following commands:
+Откройте консоль (удерживайте Win + r и введите cmd)
+введите следующие команды:
 + `pip install requests`
 + `pip install beautifulsoup4`
 + `pip install discord.py`
 + `pip install lxml`
 
-Replace **id** and **token** with your bot
+Замените **id** и **token** своим ботом
 
-*After that, you can launch the bot by double clicking on the file bot.py*
+*После этого вы можете запустить бота, дважды щелкнув по файлу bot.py*
