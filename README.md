@@ -3,10 +3,10 @@
 
 Откройте консоль (удерживайте Win + r и введите cmd)
 введите следующие команды:
-+ `pip install requests`
-+ `pip install beautifulsoup4`
-+ `pip install discord.py`
-+ `pip install lxml`
++ `pip3 install requests`
++ `pip3 install beautifulsoup4`
++ `pip3 install discord.py`
++ `pip3 install lxml`
 
 Замените **id** и **token** своим ботом
 
